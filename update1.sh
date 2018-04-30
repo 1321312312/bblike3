@@ -1,5 +1,3 @@
-
-20 lines (18 sloc)  389 Bytes
 #!/bin/bash
 echo "欢迎使用网页雷达一键脚本"
 echo "即将搭建4.27版本"
